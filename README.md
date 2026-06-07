@@ -1,6 +1,6 @@
 # CO₂ Emissions Forecasting — Multi-Model Analysis
 
-From emissions data to climate insight: multi-model forecasting of national CO₂ emissions across the world's top 10 emitters (1970–2022), comparing Ridge, Random Forest, XGBoost, and kernel-tuned SVR to identify the most reliable predictor of future emissions. Delivered as an interactive Power BI dashboard translating model outputs into policy-oriented indicators.
+From emissions data to climate insight: multi-model forecasting of national CO₂ emissions across the world's top 10 emitters (1970–2022), comparing Ridge, Random Forest, XGBoost, and kernel-tuned SVR to identify the most reliable predictor of future emissions. Delivered as an interactive Power BI dashboard, translating model outputs into policy-oriented indicators.
 
 ---
 
@@ -131,6 +131,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyter
 
 **Renato Silva** — Reporting and Data Analyst
 
-[LinkedIn](https://www.linkedin.com/in/renato-silva) | [GitHub](https://github.com/RenatoMateo) | [Power Bi Dashboard](https://app.powerbi.com/groups/me/reports/355128b7-27b2-4b79-a287-8fa7cc425916/c63422a160fba0570cb9?experience=power-bi)
+[LinkedIn](https://www.linkedin.com/in/renato-silva) | [GitHub](https://github.com/RenatoMateo) | [Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWJhZTVhMDAtMjYxZC00MzcyLThlYTktMjk5M2EwYjEzZDA4IiwidCI6IjlmMTE5OTYyLThjNjItNDMxYy1hOGVmLWU3ZTBhNDJkMTFmYyIsImMiOjR9)
 
 ---
